@@ -1,0 +1,72 @@
+header{
+    margin-top: 0;
+    background-color: #333333;
+    height: 76px;
+    background-image: url("aperture.svg");
+    background-repeat: no-repeat;
+    background-position-x: 45mm;
+    background-position-y: center;
+    background-size: 13mm;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16pt;
+    text-align-last: right;
+    padding-top: auto;
+    
+    
+
+}
+header a{
+    color: #ff0099;
+    display: inline-block;
+    padding-top: 6mm;
+    padding-right: 20mm;
+    font-family: 'Roboto Slab', serif;
+
+}
+#linkek{
+        padding-right: 40mm;
+}
+body{
+    margin: auto;
+    background-image: url("topography.png");
+    font-family: 'Roboto Slab', serif;
+
+    
+}
+
+main{
+    padding-left: 10%;
+    padding-right: 10%;
+    
+    font-size: 16pt;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 2mm;
+}
+h1{
+    font-size: 42pt;
+    font-style: normal;
+
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h2{
+    font-size: 24pt;
+    color:violet;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+    
+}
+#elvalasztas{
+    text-align-last: center;
+    font-size: 42pt;
+    padding-top: 20px;
+    padding border-bottom: 20px;
+}
+
+}
+p{
+    padding-top: 60px;
+    padding border-bottom: 60px;
+}
